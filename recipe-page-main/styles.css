@@ -1,0 +1,43 @@
+.container {
+    background-color: beige;
+    border-radius: 20px;
+    width:720px;
+}
+
+.container img {
+    padding: 30px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+.box2, .box3, .box4, .box5, .box6 {
+    padding: 0 35px;
+}
+
+.box2 {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.box3 {
+    background-color: crimson;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: left;
+}
+
+th {
+    padding: 10px 150px;
+    border-bottom: 1px solid black;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
